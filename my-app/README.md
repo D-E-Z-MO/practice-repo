@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Learning PR/Merge with Githib
+# Learning PR/Merge with Githib---Practice
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
